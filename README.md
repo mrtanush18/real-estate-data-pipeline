@@ -1,7 +1,7 @@
 Zillow End to End Data Engineering Project   
   
    
-![DE pipeline image](https://github.com/mrtanush18/Zillow-Data-Engineering/assets/79681552/e870a27b-e44d-44ca-bfc9-8304e7ce114a)       
+![DE pipeline image](https://github.com/mrtanush18/real-estate-data-pipeline/blob/main/1.png)       
 
 
 The Airflow runs on the EC2 server which run's the dag, where the first task is extracting the data from the Rapid API using the python operator.   
@@ -14,7 +14,7 @@ The Airflow runs on the EC2 server which run's the dag, where the first task is 
   
 Here are some visualizations.  
 
-![visualize1](https://github.com/mrtanush18/Zillow-Data-Engineering/assets/79681552/a1056222-4100-4d9a-9749-fb471a3e7f13)   
+![visualize1](https://github.com/mrtanush18/real-estate-data-pipeline/blob/main/2.png)   
 
 
-![visualize2](https://github.com/mrtanush18/Zillow-Data-Engineering/assets/79681552/17bd5622-a182-4114-8d2e-1fa4b0c14506)  
+![visualize2](https://github.com/mrtanush18/real-estate-data-pipeline/blob/main/3.png)  
