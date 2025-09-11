@@ -14,7 +14,7 @@ The Airflow runs on the EC2 server which run's the dag, where the first task is 
   
 Here are some visualizations.  
 
-![visualize1](https://github.com/mrtanush18/real-estate-data-pipeline/blob/main/2.png)   
+![visualize1](https://github.com/user-attachments/assets/c9125618-509b-466a-89c0-cd236927e13b)
 
 
-![visualize2](https://github.com/mrtanush18/real-estate-data-pipeline/blob/main/3.png)  
+![visualize2](https://github.com/user-attachments/assets/e5da992c-e95d-4e73-9dfa-047b5d782b1e)
